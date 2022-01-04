@@ -1,0 +1,19 @@
+{
+  "name": "firedepartmentchecklist_api",
+  "version": "1.0.0",
+  "description": "Checklist API for Engine Checks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Timothy Ference",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "express-router": "^0.0.1",
+    "json": "^11.0.0",
+    "mongoose": "^6.1.4"
+  }
+}

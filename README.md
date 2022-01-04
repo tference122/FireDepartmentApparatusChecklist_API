@@ -1,0 +1,2 @@
+# FireDepartmentApparatusCheckList
+Check for Apparatuses.
